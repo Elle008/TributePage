@@ -1,0 +1,30 @@
+#main {
+    display:flex; 
+    flex-direction:column; 
+    justify-content:center;
+    align-items: center;
+}
+
+#img-div {
+    width: 30%;
+}
+
+#image {
+    display: block;
+    width: 100%;
+}
+
+#img-caption {
+    font-style: italic;
+    font-weight: normal;
+}
+
+#tribute-info {
+    width: 50%;
+    font-size: 20px;
+}
+
+#tribute-link {
+    padding: 10px;
+
+}
